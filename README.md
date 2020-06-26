@@ -13,4 +13,4 @@
 <br/>
 <br/>
 
-![Lidar Plot](/data/pageImage.PNG)
+![RS with DL](/data/pageImage.png)
