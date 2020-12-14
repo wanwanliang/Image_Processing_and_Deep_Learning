@@ -11,7 +11,7 @@
 <h3><a href="/code/GeoTiff2imgs.ipynb">5. GeoTiff to normal images </a></h3>
 <h3><a href="/code/Keras_RetinaNet_Detector.ipynb">6. Object Detection with Keras_RetinaNet </a></h3>
 <h3><a href="/code/Convert%20ENVI%20(bif%20and%20hdr)%20to%20GeoTiff.ipynb">7. Convert ENVI bip and hdr to GeoTiff </a></h3>
-<h3><a href='/code/Extract_Statistics_from_Unmasked_Region_with_Geotiff.ipynb'> 8. Extract Stats from Unmasked Region with Geotiff.ipynb</a></h3>
+<h3><a href='/code/Extract_Statistics_from_Unmasked_Region_with_Geotiff.ipynb'> 8. Extract Stats from Unmasked Region with Geotiff</a></h3>
 
 
 <br/>
