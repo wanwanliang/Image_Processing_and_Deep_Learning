@@ -13,6 +13,7 @@
 <h3><a href="/code/Convert%20ENVI%20(bif%20and%20hdr)%20to%20GeoTiff.ipynb">7. Convert ENVI bip and hdr to GeoTiff </a></h3>
 <h3><a href='/code//WSR_ImageProcessing_StatsML.ipynb'> 8. Extract Stats from Unmasked Region with Geotiff and Train ML Models</a></h3>
 <h3><a href='/code/CNNs_WSR.ipynb'> 9. Resnet for Disease Detection</a></h3>
+<h3> <a href="/code/Extract%20raster%20value%20by%20polygons.ipynb"> 10. Extract raster value by polygons with python </h3>
 
 
 
